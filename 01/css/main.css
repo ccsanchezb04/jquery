@@ -1,0 +1,30 @@
+body {
+	background: #2985da;
+	font-family: Tahoma;
+	font-size: 16px;
+}
+
+#contenedor{
+	background: #fff;
+	width: 50%;
+	margin: 10px auto;
+	padding: 20px;
+}
+.campos {
+	width: 50%;
+	margin: 10px auto;
+}
+.campos input {
+	width: 100%;
+	padding: 5px;
+}
+.campos input[type=submit] {
+	border: none;
+	background: #2985da;
+	color: #fff;
+	font-weight: bold;
+	font-size: 14px;
+}
+.campos input[type=submit]:hover {
+	background: #47cf7b;
+}
